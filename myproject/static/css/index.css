@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+p{
+    font-family: cursive;
+    font-size: large;
+    color: crimson;
+}
+::placeholder{
+    font-family:fantasy;
+    color: cornflowerblue;
+}
