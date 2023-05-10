@@ -9,4 +9,4 @@
 | -------------| -------------   | --------       |
 | Team Lead    | MAHESHWARANSRIRAM M        | 711719104050   |
 | Team Member1 | DANUSU B          | 711719104019   |
-| Team Member2 | JAGADEESWARAN R     | 711719104035   |
+| Team Member2 | JEGADEESWARAN R     | 711719104035   |
